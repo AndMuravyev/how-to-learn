@@ -157,7 +157,7 @@ ul {
 
 .table {
   width: 1100px;
-  margin: 60px auto 100px;
+  margin-bottom: 100px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -165,7 +165,7 @@ ul {
 
 .table__cell {
   padding: 0;
-  margin: 0 0 60px 0;
+  margin: 60px 0 0 0;
   width: 250px;
 }
 
@@ -188,7 +188,54 @@ ul {
 
 .feynman {
   background-color: #f2f2f2;
+  height: 890px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
+
+.feynman__title {
+  width: 648px;
+  line-height: 1.15;
+  font-size: 120px;
+  font-weight: 600;
+  padding-top: 100px;
+  text-align: center;
+  margin: 0;
+  z-index: 1;
+}
+
+.feynman__subtitle {
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: normal;
+  text-align: center;
+  margin: 70px 0 0 0;
+  z-index: 1;
+}
+
+.feynman__link {
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: normal;
+  z-index: 1;
+  text-decoration: none;
+  color: #2f80ed;
+  position: absolute;
+  top: 50%;
+  right: 48px;
+}
+
+.feynman__illustration {
+  background-image: url(../images/feynman.png);
+  bottom: 0;
+  left: 0;
+  width: 867px;
+  height: 637px;
+  position: absolute;
+}
+
 /* и элемента с модификатором вида ключ-значение */
 .table__cell_theme_dark {
   width: 200px;
