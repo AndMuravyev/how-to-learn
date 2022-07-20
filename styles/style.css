@@ -146,7 +146,7 @@
   width: 60%;
   text-align: center;
   line-height: 34px;
-  font-size: 34px;
+  font-size: 24px;
   font-weight: normal;
   margin: 0;
 }
@@ -236,10 +236,40 @@ ul {
   position: absolute;
 }
 
+.kaufman {
+  background-color: #1f1f1f;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.table_theme_dark {
+  margin-bottom: 90px;
+}
+
+.section-title_theme_dark {
+  margin-top: 90px;
+  color: white;
+}
+
+.section-subtitle_theme_dark {
+  color: white;
+}
+
 /* и элемента с модификатором вида ключ-значение */
 .table__cell_theme_dark {
   width: 200px;
   color: white;
   margin-right: 0;
   margin-top: 80px;
+  z-index: 1;
+}
+
+.kaufman__triangle {
+  position: absolute;
+  width: 877px;
+  height: 877px;
+  right: -210px;
 }
