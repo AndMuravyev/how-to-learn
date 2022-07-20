@@ -202,9 +202,8 @@ ul {
   line-height: 1.15;
   font-size: 120px;
   font-weight: 600;
-  padding-top: 100px;
   text-align: center;
-  margin: 0;
+  margin: 100px 0 0 0;
   z-index: 1;
 }
 
@@ -221,7 +220,6 @@ ul {
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
-  z-index: 1;
   text-decoration: none;
   color: #2f80ed;
   position: absolute;
