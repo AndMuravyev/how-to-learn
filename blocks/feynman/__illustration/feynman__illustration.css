@@ -1,0 +1,10 @@
+.feynman__illustration {
+  background-position: bottom left;
+  background-repeat: no-repeat;
+  background-size: cover;
+  bottom: 0;
+  left: 0;
+  width: 867px;
+  height: 637px;
+  position: absolute;
+}
