@@ -2,8 +2,5 @@
   background-color: #f2f2f2;
   display: flex;
   justify-content: center;
-  position: relative;
-  bottom: 50px;
-  padding-top: 110px;
-  z-index: -1;
+  padding-top: 160px;
 }
