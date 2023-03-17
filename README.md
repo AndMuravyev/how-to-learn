@@ -1,7 +1,7 @@
 # Проект "Научиться учиться"
 Для тех, кому не хватает мотивации.
 
-<div align-self = "center">
+<div align-self = "center" width="50">
   <img src="./images/photo.png"/>
 </div>
 
