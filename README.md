@@ -1,5 +1,5 @@
 # Проект "Научиться учиться"
-Для тех, кому не хватает мотивации.
+Для тех, кому не хватает мотивации
 
 <div align-self = "center">
   <img width="200" height="100" src="https://media.giphy.com/media/xTiTnvi6UtRmRmhP44/giphy.gif"/>
