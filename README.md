@@ -2,7 +2,7 @@
 Для тех, кому не хватает мотивации.
 
 <div align-self = "center">
-  <img width="300" height="300" src="https://media.giphy.com/media/xTiTnvi6UtRmRmhP44/giphy.gif"/>
+  <img width="200" height="200" src="https://media.giphy.com/media/xTiTnvi6UtRmRmhP44/giphy.gif"/>
 </div>
 
 ## Функциональность
