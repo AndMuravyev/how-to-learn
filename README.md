@@ -20,7 +20,7 @@
 * Flexbox
 
 ## Инструкция по развёртыванию
-* клонировать репозиторий git clone
+* клонировать репозиторий git clone https://github.com/muravevanastya/how-to-learn.git
 * перейти в папку с проектом cd how-to-learn
 * открыть файл index.html
 
