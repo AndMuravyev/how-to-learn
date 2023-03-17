@@ -1,8 +1,8 @@
 # Проект "Научиться учиться"
 Для тех, кому не хватает мотивации.
 
-<div align-self = "center" width="50">
-  <img src="./images/photo.png"/>
+<div align-self = "center">
+  <img src="https://media.giphy.com/media/xTiTnvi6UtRmRmhP44/giphy.gif"/>
 </div>
 
 ## Функциональность
