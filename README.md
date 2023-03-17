@@ -23,7 +23,7 @@
 * Keyframes, animation, transform, iframe для вставки видео с Youtube
 * Flexbox
 
-## Инструкция по развёртыванию
+## Инструкция по запуску приложения
 * клонировать репозиторий <code>git clone https://github.com/muravevanastya/how-to-learn.git</code>
 * перейти в папку с проектом <code>cd how-to-learn</code>
 * открыть файл <code>index.html</code>
